@@ -1,0 +1,17 @@
+{
+    "name": "WidgetCurtain",
+    "version": "1.0.0",
+    "keywords": "Widget,Curtain",
+    "description": "窗帘控制应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetCurtain.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
